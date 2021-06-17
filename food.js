@@ -30,7 +30,7 @@ class Food {
                  x=80
                  y=y+50
              }
-             this.image(this.image,x,y,50,50);
+             image(this.image,x,y,50,50);
              x=x+30; 
         }
      }
